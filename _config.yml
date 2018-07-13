@@ -2,7 +2,7 @@ title: test EVERYTHING
 url: "https://vnagoshi.github.io"
 baseurl: "/TestGeneration"
 
-main-page: home-page-body.html
+main-page: main-page-body.html
 
 markdown: kramdown
 include: [_data]
