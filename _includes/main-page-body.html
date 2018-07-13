@@ -3,15 +3,5 @@
 
 {% include header.html %}
 
-{% if site.data.categories.categories %}
-  {% for cat in site.data.categories.categories %}
-    <div class="col-sm-4">
-      <div class="well">
-        <p class="text-center">{{ cat.name }}</p>
-        <p class="text-center">{{ cat.desc }}</p>
-      </div>
-    </div>
-  {% endfor %}
-{% endif %}
 
 {% include footer.html %}
