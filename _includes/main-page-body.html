@@ -7,8 +7,10 @@
 {% if site.data.categories.categories %}
   {% for cat in site.data.categories.categories %}
     <div class="col-sm-4">
-      <p class="text-center">{{ cat.name }}</p>
-      <p class="text-center">{{ cat.desc }}</p>
+      <div class="well">
+        <p class="text-center">{{ cat.name }}</p>
+        <p class="text-center">{{ cat.desc }}</p>
+      </div>
     </div>
   {% endfor %}
 {% endif %}
