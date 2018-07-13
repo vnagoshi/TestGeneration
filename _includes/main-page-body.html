@@ -3,7 +3,6 @@
 
 {% include header.html %}
 
-<p>Main content</p>
 {% if site.data.categories.categories %}
   {% for cat in site.data.categories.categories %}
     <div class="col-sm-4">
@@ -14,6 +13,5 @@
     </div>
   {% endfor %}
 {% endif %}
-<p>End main content</p>
 
 {% include footer.html %}

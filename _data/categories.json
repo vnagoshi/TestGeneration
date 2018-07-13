@@ -2,27 +2,33 @@
   "categories": [
     {
       "name": "Games",
-      "desc": "Check out our games on chrome web apps, mobile apps, and webpages"
+      "desc": "Check out our games on chrome web apps, mobile apps, and webpages",
+      "icon": ""
     },
     {
       "name": "Themes",
-      "desc": "Our collection of Chrome and Firefox themes to spruce up your browser"
+      "desc": "Our collection of Chrome and Firefox themes to spruce up your browser",
+      "icon": ""
     },
     {
       "name": "Utilities",
-      "desc": "Useful tools from calculators to clocks, check out our handy applications"
+      "desc": "Useful tools from calculators to clocks, check out our handy applications",
+      "icon": ""
     },
     {
       "name": "DnD",
-      "desc": "Dungeons and Dragons apps and utilities to aid in your adventure"
+      "desc": "Dungeons and Dragons apps and utilities to aid in your adventure",
+      "icon": ""
     },
     {
       "name": "AMVs",
-      "desc": "All of our AMVs, all of which are on our YouTube channel"
+      "desc": "All of our AMVs, all of which are on our YouTube channel",
+      "icon": ""
     },
     {
       "name": "References",
-      "desc": "Learn some web development basics with walkthrough articles and youtube tutorials"
+      "desc": "Learn some web development basics with walkthrough articles and youtube tutorials",
+      "icon": ""
     }
   ]
 }
