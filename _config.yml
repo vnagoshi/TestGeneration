@@ -1,0 +1,6 @@
+title: test EVERYTHING
+url: "https://vnagoshi.github.io"
+baseurl: "/TestGeneration"
+
+markdown: kramdown
+include: [_data]

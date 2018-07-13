@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "name": "Desktop Clock",
+      "date": "null",
+      "desc": "A clock",
+      "links": [
+        {
+          "url": "test",
+          "type": "chromeWebstore"
+        }
+      ]
+    },
+    {
+      "name": "Chrome Notes",
+      "date": "still null",
+      "desc": "",
+      "links": [
+        {
+          "url": "test",
+          "type": "chromeWebstore"
+        }
+      ]
+    }
+  ]
+}
