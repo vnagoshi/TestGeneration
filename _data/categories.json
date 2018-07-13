@@ -3,32 +3,38 @@
     {
       "name": "Games",
       "desc": "Check out our games on chrome web apps, mobile apps, and webpages",
-      "icon": ""
+      "icon": "",
+      "link": "games"
     },
     {
       "name": "Themes",
       "desc": "Our collection of Chrome and Firefox themes to spruce up your browser",
-      "icon": ""
+      "icon": "",
+      "link": "themes"
     },
     {
       "name": "Utilities",
       "desc": "Useful tools from calculators to clocks, check out our handy applications",
-      "icon": ""
+      "icon": "",
+      "link": "utilities"
     },
     {
       "name": "DnD",
       "desc": "Dungeons and Dragons apps and utilities to aid in your adventure",
-      "icon": ""
+      "icon": "",
+      "link": "dnd"
     },
     {
       "name": "AMVs",
       "desc": "All of our AMVs, all of which are on our YouTube channel",
-      "icon": ""
+      "icon": "",
+      "link": "amvs"
     },
     {
       "name": "References",
       "desc": "Learn some web development basics with walkthrough articles and youtube tutorials",
-      "icon": ""
+      "icon": "",
+      "link": "references"
     }
   ]
 }

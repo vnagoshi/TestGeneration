@@ -2,22 +2,96 @@
   "projects": [
     {
       "name": "Desktop Clock",
-      "date": "null",
-      "desc": "A clock",
+      "date": "",
+      "desc": "Desktop Clock is a simple, resizable, and customizable clock for your Mac, PC, or Chomebook",
+      "icon": "",
       "links": [
         {
-          "url": "test",
+          "url": "#",
           "type": "chromeWebstore"
         }
       ]
     },
     {
-      "name": "Chrome Notes",
-      "date": "still null",
-      "desc": "",
+      "name": "Doodle Pad",
+      "date": "",
+      "desc": "Doodle Pad is a very simple online doodling tool",
+      "icon": "",
       "links": [
         {
-          "url": "test",
+          "url": "#",
+          "type": "inHouse"
+        }
+      ]
+    },
+    {
+      "name": "Chrome Notes",
+      "date": "",
+      "desc": "Chrome Notes is a simple notepad extension for your browser",
+      "icon": "",
+      "links": [
+        {
+          "url": "https://chrome.google.com/webstore/detail/chrome-notes/lnfempckkegmaeleniojhjplemmebgfi",
+          "type": "chromeWebstore"
+        }
+      ]
+    },
+    {
+      "name": "Grade Calc",
+      "date": "",
+      "desc": "Grade Calc is a website that lets you easily and quickly compute many students' grades",
+      "icon": "",
+      "links": [
+        {
+          "url": "#",
+          "type": "inHouse"
+        }
+      ]
+    },
+    {
+      "name": "Stat Calc",
+      "date": "",
+      "desc": "Stat Calc is a website that lets you compute basic stats from your data",
+      "icon": "",
+      "links": [
+        {
+          "url": "#",
+          "type": "inHouse"
+        }
+      ]
+    },
+    {
+      "name": "Intersect Calc",
+      "date": "",
+      "desc": "Calculate the intersection point of two lines",
+      "icon": "",
+      "links": [
+        {
+          "url": "#",
+          "type": "inHouse"
+        }
+      ]
+    },
+    {
+      "name": "Number Converter",
+      "date": "",
+      "desc": "Number Converter is a website that lets you easily and quickly convert between bases 2, 8, 10, and 16",
+      "icon": "",
+      "links": [
+        {
+          "url": "#",
+          "type": "inHouse"
+        }
+      ]
+    },
+    {
+      "name": "Copylink",
+      "date": "",
+      "desc": "With Copylink, just click a button and copy the link of your current page to your clipboard",
+      "icon": "",
+      "links": [
+        {
+          "url": "https://chrome.google.com/webstore/detail/copylink/hmbglhnodfegeiemefjoejkkmncdobde",
           "type": "chromeWebstore"
         }
       ]
