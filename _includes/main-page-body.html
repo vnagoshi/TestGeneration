@@ -4,7 +4,11 @@
 {% include header.html %}
 
 <p>Main content</p>
-
+{% if site.data.categories.categories %}
+  {% for cat in site.data.categories.categories %}
+    {{ cat.name }}
+  {% endfor %}
+{% endif %}
 <p>End main content</p>
 
 {% include footer.html %}
