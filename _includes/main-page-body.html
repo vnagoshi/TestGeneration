@@ -4,15 +4,18 @@
 {% include header.html %}
 {% include banner.html %}
 
+<br>
+<div class="container-fluid">
 {% if site.data.categories.categories %}
   {% for cat in site.data.categories.categories %}
     <div class="col-sm-4">
-      <div class="well">
-        <p class="text-center">{{ cat.name }}</p>
-        <p class="text-center">{{ cat.desc }}</p>
+      <div class="well content-box">
+        <p class="text-center text-white vmin2-5">{{ cat.name }}</p>
+        <p class="text-center text-white vmin2-5">{{ cat.desc }}</p>
       </div>
     </div>
   {% endfor %}
 {% endif %}
+</div>
 
 {% include footer.html %}
