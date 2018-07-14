@@ -1,4 +1,8 @@
-* {
+@font-face {
+  font-family: MatrixBoldSmallCaps;
+  src: url(https://rgbstudios.org/assets/fonts/MatrixBoldSmallCaps.ttf);
+}
+    * {
   font-family: MatrixBoldSmallCaps;
 }
 body {
