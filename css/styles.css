@@ -1,0 +1,38 @@
+* {
+  font-family: MatrixBoldSmallCaps;
+}
+body {
+  background-color: #333;
+}
+.text-white {
+  color: white !important;
+
+}
+.vmin2-5 {
+  font-size: 2.5vmin !important;
+}
+.no-padding {
+  padding: 0 0;
+}
+.rgb-menu {
+  margin-bottom: 0;
+  border: none;
+  border-radius: 0;
+  background-color: #333;
+}
+.rgb-menu-item.red:hover {
+  background-color: #933 !important;
+}
+.rgb-menu-item.green:hover {
+  background-color: #393;
+}
+.rgb-menu-item.blue:hover {
+  background-color: #339;
+}
+.content-box {
+  background-color: transparent;
+  border: 6px solid #ad8585;
+}
+.content-box:hover:not(.plain) {
+  background-color: #ad8585;
+}
